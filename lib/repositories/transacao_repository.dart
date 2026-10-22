@@ -4,8 +4,8 @@ import '../models/transacao.dart';
 
 class TransacaoRepository {
   
-  static const String _baseUrl = "https://cefzxbeyewupfxowchac.supabase.co/rest/v1/transacoes";
-  static const String _publishableKey = "<SUA_KEY>";
+  static const String _baseUrl = "https://pxmbmmxijhjjevephndy.supabase.co/rest/v1/transacoes";
+  static const String _publishableKey = "sb_publishable_6amsgJuxkTL907qTkMdZKg_PzT5z0X0";
 
   final String accessToken;
 

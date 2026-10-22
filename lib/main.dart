@@ -18,8 +18,8 @@ Future<void> main() async {
 
   
   await Supabase.initialize(
-    url: 'https://skspjwkugtydevhbgyfh.supabase.co', 
-    publishableKey: 'sb_publishable_OqLPvWKDZjVYJQPsGI0Mjw_nQkmL4gH'
+    url: 'https://pxmbmmxijhjjevephndy.supabase.co', 
+    publishableKey: 'sb_publishable_6amsgJuxkTL907qTkMdZKg_PzT5z0X0'
   );
 
   runApp(const FinanceiroApp());
