@@ -3,8 +3,8 @@ import 'package:http/http.dart' as http;
 import '../models/usuario.dart';
 
 class AuthRepository {
-  static const String _baseUrl = "https://cefzxbeyewupfxowchac.supabase.co/auth/v1";
-  static const String _publishableKey = "<SUA_KEY>";
+  static const String _baseUrl = "https://skspjwkugtydevhbgyfh.supabase.co/auth/v1";
+  static const String _publishableKey = "sb_publishable_OqLPvWKDZjVYJQPsGI0Mjw_nQkmL4gH";
 
   Map<String, String> get _headers => {
     'apikey': _publishableKey,
